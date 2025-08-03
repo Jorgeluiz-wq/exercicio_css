@@ -1,11 +1,10 @@
-
 .entretenimento {
   background-color: #fddde6;
   padding: 20px;
   color: #333;
 }
 
-.primeira, .segunda {
+.primeira, .segunda, .terceira, .quarta {
     width: 400px;
     height: auto;
 }
@@ -14,4 +13,16 @@
   background-color: #d0e6ff;
   padding: 20px;
   color: #000;
+}
+
+.esportes {
+  background-color: rgba(210, 105, 30, 0.559);
+  padding: 20px;
+  color: black;
+}
+
+.petroleo {
+  background-color: rgba(56, 72, 72, 0.61);
+  padding: 20px;
+  color: black;
 }
